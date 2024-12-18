@@ -13,3 +13,4 @@ Well, I don’t think it’s worth explaining about the fourth point
 Unfortunately, the program only supports Russian, but in the future I will try to add new languages
 
 # Install in termux
+
