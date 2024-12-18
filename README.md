@@ -13,7 +13,7 @@ Well, I don’t think it’s worth explaining about the fourth point
 Unfortunately, the program only supports Russian, but in the future I will try to add new languages
 
 # Install in termux
-|1.pkg update && pkg upgrade -y|
+<sub>1.pkg update && pkg upgrade -y</sub>
 *2.pkg install python*
 *3.pkg install python-pip*
 *4.pkg install git*
