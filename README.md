@@ -13,11 +13,11 @@ Well, I don’t think it’s worth explaining about the fourth point
 Unfortunately, the program only supports Russian, but in the future I will try to add new languages
 
 # Install in termux
-<sup>1.pkg update && pkg upgrade -y</sup>
-<sup>2.pkg install python</sup>
-<sub>3.pkg install python-pip</sub>
-<sub>4.pkg install git</sub>
-<sub>5.git clone https://github.com/sozdatelispython/Search-in-number</sub>
-*6.cd Search-in-number*
-*7.pip install -r requirements.txt*
-*8.python OSearch.py*
+1.pkg update && pkg upgrade -y
+2.pkg install python
+3.pkg install python-pip
+4.pkg install git
+5.git clone https://github.com/sozdatelispython/Search-in-number
+6.cd Search-in-number
+7.pip install -r requirements.txt
+8.python OSearch.py
