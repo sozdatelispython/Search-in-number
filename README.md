@@ -14,10 +14,10 @@ Unfortunately, the program only supports Russian, but in the future I will try t
 
 # Install in termux
 <sub>1.pkg update && pkg upgrade -y</sub>
-*2.pkg install python*
-*3.pkg install python-pip*
-*4.pkg install git*
-*5.git clone https://github.com/sozdatelispython/Search-in-number*
+<sub>2.pkg install python</sub>
+<sub>3.pkg install python-pip</sub>
+<sub>4.pkg install git</sub>
+<sub>5.git clone https://github.com/sozdatelispython/Search-in-number</sub>
 *6.cd Search-in-number*
 *7.pip install -r requirements.txt*
 *8.python OSearch.py*
