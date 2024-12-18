@@ -1,6 +1,6 @@
 # OSearch
 
-Hello, dear people, crack is an osint tool for searching for any information
+Hello, dear people, osearch is an osint tool for searching for any information
 
 In the main menu we can see 4 items: Search by number, search by IP, search by passport and exit
 
