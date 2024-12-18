@@ -42,3 +42,5 @@ lat = result [0] ['geometry'] ['lat']
 lng = result [0] ['geometry'] ['lng']
 
 print(f"Ширина & Долгота: {lat}, {lng}")
+
+#ЧТОБЫ БЫЛ РАСШИРЕННЫЙ ПОИСК ПОСЛЕ ЭТОЙ СТРОКИ НУЖНО ВВЕСТИ print("result")
