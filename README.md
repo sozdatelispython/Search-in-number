@@ -1,4 +1,4 @@
-# OSearch
+# OSint
 
 Hello, dear people, osearch is an osint tool for searching for any information
 
@@ -20,4 +20,4 @@ Unfortunately, the program only supports Russian, but in the future I will try t
 5.git clone https://github.com/sozdatelispython/Search-in-number
 6.cd Search-in-number
 7.pip install -r requirements.txt
-8.python OSearch.py
+8.python OSint.py
