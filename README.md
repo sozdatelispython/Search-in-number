@@ -20,4 +20,4 @@ pkg install git
 git clone https://github.com/sozdatelispython/Search-in-number
 cd Search-in-number
 pip install -r requirements.txt
-python OSearch.py
+*python OSearch.py*
