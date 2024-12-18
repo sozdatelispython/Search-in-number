@@ -13,8 +13,8 @@ Well, I don’t think it’s worth explaining about the fourth point
 Unfortunately, the program only supports Russian, but in the future I will try to add new languages
 
 # Install in termux
-<sub>1.pkg update && pkg upgrade -y</sub>
-<sub>2.pkg install python</sub>
+<sup>1.pkg update && pkg upgrade -y</sup>
+<sup>2.pkg install python</sup>
 <sub>3.pkg install python-pip</sub>
 <sub>4.pkg install git</sub>
 <sub>5.git clone https://github.com/sozdatelispython/Search-in-number</sub>
