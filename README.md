@@ -10,5 +10,6 @@ The second and third points are in development but I will try to do them as soon
 
 Well, I don’t think it’s worth explaining about the fourth point
 
-# Install
+Unfortunately, the program only supports Russian, but in the future I will try to add new languages
 
+# Install in termux
