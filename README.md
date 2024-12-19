@@ -1,16 +1,6 @@
 # OSint
 
-Hello, dear people, OSint is an osint tool for searching for any information
-
-In the main menu we can see 4 items: Search by number, search by IP, search by passport and exit
-
-The first item searches for information by number, it displays the country, mobile operator, and coordinates NOTE: COORDINATES POINT TO CITY CENTER
-
-The second and third points are in development but I will try to do them as soon as possible
-
-Well, I don’t think it’s worth explaining about the fourth point
-
-Unfortunately, the program only supports Russian, but in the future I will try to add new languages
+Hello, dear people, I am sozdatelispython and I will tell you about my project, OSint - a tool for searching for any information by phone number, by passport, by IP address
 
 # Install in termux
 1.pkg update && pkg upgrade -y
